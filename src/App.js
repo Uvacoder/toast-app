@@ -33,9 +33,9 @@ function SuccessToastButton(props) {
   return <ToastButton status="success" {...props} />;
 }
 
-function WarningToastButton(props) {
-  return <ToastButton status="warning" {...props} />;
-}
+// function WarningToastButton(props) {
+//   return <ToastButton status="warning" {...props} />;
+// }
 
 function ErrorToastButton(props) {
   return <ToastButton status="error" {...props} />;
